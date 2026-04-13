@@ -282,19 +282,6 @@ status    ::  Open to full-time & freelance opportunities
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   500+    DSA problems solved (arrays, graphs, DP, trees)    ║
-║   47.1%   WER reduction on Hindi Whisper fine-tune           ║
-║   12      Indic languages supported in MindfulAI             ║
-║   6-pass  Agentic sourcing pipeline in IntelliHire           ║
-║   8.6     CGPA — B.E. Computer Science, SKCT                 ║
-║   3+      Full-stack apps built at Genworx.ai internship     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <br/>
 
 `Full Stack · Agentic AI · LangChain · RAG · React · FastAPI · Spring Boot`
