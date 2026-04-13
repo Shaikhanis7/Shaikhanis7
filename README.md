@@ -7,7 +7,7 @@
 
 # Shaikh Anis
 
-<code>Full Stack & Agentic AI Developer</code> &nbsp;·&nbsp; Coimbatore, India &nbsp;·&nbsp; B.E. CSE · SKCT · 2026
+`Full Stack & Agentic AI Developer` &nbsp;·&nbsp; Coimbatore, India &nbsp;·&nbsp; B.E. CSE · SKCT · 2026
 
 <br/>
 
@@ -25,24 +25,20 @@
 
 <br/>
 
-![Available](https://img.shields.io/badge/🟢_Status-Available_for_Opportunities-22c55e?style=flat-square&labelColor=030912)
+![Status](https://img.shields.io/badge/Status-Available_for_Opportunities-22c55e?style=flat-square&logo=statuspage&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://img.shields.io/badge/─────────────────────────────────────────────-030912?style=flat-square" />
-</div>
-
-## 🧑‍💻 About Me
+## ![about](https://img.shields.io/badge/About_Me-3b82f6?style=flat-square&logo=about-dot-me&logoColor=white&labelColor=030912)
 
 ```text
-location  ::  📍 Coimbatore, India          cgpa    ::  8.6 / 10.0
-focus     ::  🤖 Agentic AI & Full Stack Engineering
-model     ::  🎙️ Published Whisper Hindi STT on HuggingFace (47.1% WER ↓)
-dsa       ::  💡 500+ problems solved · LeetCode + GFG
-status    ::  ✅ Open to full-time & freelance opportunities
+location  ::  Coimbatore, India          cgpa    ::  8.6 / 10.0
+focus     ::  Agentic AI & Full Stack Engineering
+model     ::  Published Whisper Hindi STT on HuggingFace (47.1% WER reduction)
+dsa       ::  500+ problems solved  ·  LeetCode + GFG
+status    ::  Open to full-time & freelance opportunities
 ```
 
 > Full Stack & AI Developer building scalable applications with **React**, **Angular**, **FastAPI**, and **Spring Boot**.
@@ -52,26 +48,26 @@ status    ::  ✅ Open to full-time & freelance opportunities
 
 ---
 
-## 📊 By the Numbers
+## ![stats](https://img.shields.io/badge/By_the_Numbers-06b6d4?style=flat-square&logo=bar-chart&logoColor=white&labelColor=030912)
 
 <div align="center">
 
-| Metric | Value | Context |
-|:------:|:-----:|:--------|
-| ![DSA](https://img.shields.io/badge/500+-3b82f6?style=flat-square&labelColor=030912) | **DSA Problems** | Arrays, Graphs, DP, Trees |
-| ![WER](https://img.shields.io/badge/47.1%25-06b6d4?style=flat-square&labelColor=030912) | **WER Reduction** | Hindi Whisper Fine-tune |
-| ![Lang](https://img.shields.io/badge/12-7c3aed?style=flat-square&labelColor=030912) | **Indic Languages** | Supported in MindfulAI |
-| ![Pass](https://img.shields.io/badge/6--pass-3b82f6?style=flat-square&labelColor=030912) | **Agentic Pipeline** | IntelliHire Sourcing Engine |
-| ![CGPA](https://img.shields.io/badge/8.6-06b6d4?style=flat-square&labelColor=030912) | **CGPA** | B.E. CSE, SKCT |
-| ![Apps](https://img.shields.io/badge/3+-ec4899?style=flat-square&labelColor=030912) | **Full-Stack Apps** | Built at Genworx.ai |
+| &nbsp; | Metric | Context |
+|:------:|:-------|:--------|
+| ![v](https://img.shields.io/badge/500+-3b82f6?style=flat-square&labelColor=030912) | **DSA Problems Solved** | Arrays, Graphs, DP, Trees — LeetCode & GFG |
+| ![v](https://img.shields.io/badge/47.1%25_WER_%E2%86%93-06b6d4?style=flat-square&labelColor=030912) | **Whisper Fine-tune** | Hindi STT · 0.41 → 0.22 WER |
+| ![v](https://img.shields.io/badge/12_Languages-7c3aed?style=flat-square&labelColor=030912) | **Indic NLP** | Supported in MindfulAI via IndicTrans2 |
+| ![v](https://img.shields.io/badge/6--pass_Pipeline-3b82f6?style=flat-square&labelColor=030912) | **Agentic Sourcing** | IntelliHire Recruitment Engine |
+| ![v](https://img.shields.io/badge/CGPA_8.6-06b6d4?style=flat-square&labelColor=030912) | **Academic** | B.E. CSE, SKCT |
+| ![v](https://img.shields.io/badge/3+_Apps-ec4899?style=flat-square&labelColor=030912) | **Production Apps** | Built at Genworx.ai internship |
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## ![stack](https://img.shields.io/badge/Tech_Stack-3b82f6?style=flat-square&logo=stack-overflow&logoColor=white&labelColor=030912)
 
-**Languages**
+![Languages](https://img.shields.io/badge/Languages-030912?style=flat-square&logo=code&logoColor=3b82f6)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -79,19 +75,19 @@ status    ::  ✅ Open to full-time & freelance opportunities
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frontend**
+![Frontend](https://img.shields.io/badge/Frontend-030912?style=flat-square&logo=figma&logoColor=06b6d4)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend**
+![Backend](https://img.shields.io/badge/Backend-030912?style=flat-square&logo=server&logoColor=7c3aed)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-**🤖 AI / ML**
+![AI/ML](https://img.shields.io/badge/AI_%2F_ML-030912?style=flat-square&logo=openai&logoColor=3b82f6)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=github&logoColor=white)
@@ -100,7 +96,7 @@ status    ::  ✅ Open to full-time & freelance opportunities
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=python&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 
-**Databases**
+![Databases](https://img.shields.io/badge/Databases-030912?style=flat-square&logo=postgresql&logoColor=ec4899)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -108,7 +104,7 @@ status    ::  ✅ Open to full-time & freelance opportunities
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1D9E75?style=flat-square&logo=databricks&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**DevOps & Cloud**
+![DevOps](https://img.shields.io/badge/DevOps_%26_Cloud-030912?style=flat-square&logo=docker&logoColor=06b6d4)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -118,22 +114,19 @@ status    ::  ✅ Open to full-time & freelance opportunities
 
 ---
 
-## 🚀 Featured Projects
+## ![projects](https://img.shields.io/badge/Featured_Projects-7c3aed?style=flat-square&logo=rocket&logoColor=white&labelColor=030912)
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [IntelliHire](https://github.com/Shaikhanis7/IntelliHire)
+### [IntelliHire](https://github.com/Shaikhanis7/IntelliHire) &nbsp; ![](https://img.shields.io/badge/Agentic_Recruitment-3b82f6?style=flat-square&labelColor=030912)
 
-![Blue](https://img.shields.io/badge/Agentic_AI_Recruitment_Platform-3b82f6?style=flat-square&labelColor=030912)
+> End-to-end **6-pass agentic sourcing engine** — hybrid vector + LLM scoring delivers ranked shortlists autonomously.
 
-> End-to-end **6-pass agentic sourcing engine** that autonomously searches candidates, applies hybrid vector + LLM scoring, and delivers ranked shortlists.
-
-**Highlights:**
-- Hybrid rule `(40%)` + semantic `(60%)` scoring
-- LLM re-ranking with Groq & Gemini Embeddings
-- Celery + Redis async job queue
+- ▸ Hybrid rule `40%` + semantic `60%` scoring
+- ▸ LLM re-ranking with Groq & Gemini Embeddings
+- ▸ Celery + Redis async job queue
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -143,16 +136,13 @@ status    ::  ✅ Open to full-time & freelance opportunities
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [MindfulAI](https://github.com/Shaikhanis7/final_sem_project)
+### [MindfulAI](https://github.com/Shaikhanis7/final_sem_project) &nbsp; ![](https://img.shields.io/badge/RAG_Mental_Health_AI-06b6d4?style=flat-square&labelColor=030912)
 
-![Cyan](https://img.shields.io/badge/Agentic_RAG_Mental_Health_Assistant-06b6d4?style=flat-square&labelColor=030912)
+> Full-stack AI mental wellness platform — **real-time crisis detection**, DeepFace emotion analysis, 12-language support.
 
-> Full-stack AI mental wellness platform with agentic RAG chat, **real-time crisis detection**, DeepFace emotion analysis, and 12-language support.
-
-**Highlights:**
-- 12 Indic languages via IndicTrans2
-- Real-time facial emotion AI with DeepFace
-- Crisis detection + emergency email alerts
+- ▸ 12 Indic languages via IndicTrans2
+- ▸ Real-time facial emotion AI with DeepFace
+- ▸ Crisis detection + emergency email alerts
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=github&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
@@ -164,16 +154,13 @@ status    ::  ✅ Open to full-time & freelance opportunities
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ [Whisper Hindi STT](https://huggingface.co/ShaikhAnis007/whisper-medium-hindi)
+### [Whisper Hindi STT](https://huggingface.co/ShaikhAnis007/whisper-medium-hindi) &nbsp; ![](https://img.shields.io/badge/HuggingFace_Model-7c3aed?style=flat-square&labelColor=030912)
 
-![Violet](https://img.shields.io/badge/Fine--tuned_Speech--to--Text_Model-7c3aed?style=flat-square&labelColor=030912)
+> Fine-tuned OpenAI Whisper Medium on AI4Bharat Kathbath dataset. Published on HuggingFace Hub.
 
-> Fine-tuned OpenAI Whisper Medium on AI4Bharat Kathbath Hindi speech dataset. Published on HuggingFace Hub.
-
-**Highlights:**
-- **`WER ↓ 47.1%`** &nbsp;(0.41 → 0.22)
-- **`CER ↓ 69.4%`**
-- [![Open in Colab](https://img.shields.io/badge/Colab-Notebook-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1fHOK2ymEmDiWI4_XShxcZKnP3OjySqLg)
+- ▸ **`WER ↓ 47.1%`** &nbsp;(0.41 → 0.22)
+- ▸ **`CER ↓ 69.4%`**
+- ▸ [![Open in Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1fHOK2ymEmDiWI4_XShxcZKnP3OjySqLg)
 
 ![Whisper](https://img.shields.io/badge/Whisper_Medium-412991?style=flat-square&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -182,16 +169,13 @@ status    ::  ✅ Open to full-time & freelance opportunities
 </td>
 <td width="50%" valign="top">
 
-### 👥 [Freelancer Platform](https://github.com/Shaikhanis7/JOB-PORTAL)
+### [Freelancer Platform](https://github.com/Shaikhanis7/JOB-PORTAL) &nbsp; ![](https://img.shields.io/badge/Full_Stack_Portal-ec4899?style=flat-square&labelColor=030912)
 
-![Pink](https://img.shields.io/badge/Full_Stack_Job_Portal-ec4899?style=flat-square&labelColor=030912)
+> Secure full-stack job platform with JWT auth, RBAC via Spring Security, and scalable REST APIs with JPA/Hibernate.
 
-> Secure full-stack platform with JWT authentication, RBAC using Spring Security, and scalable REST APIs with JPA/Hibernate.
-
-**Highlights:**
-- Role-Based Access Control (RBAC)
-- JWT + Spring Security authentication
-- JPA/Hibernate REST architecture
+- ▸ Role-Based Access Control (RBAC)
+- ▸ JWT + Spring Security authentication
+- ▸ JPA/Hibernate REST architecture
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -204,28 +188,25 @@ status    ::  ✅ Open to full-time & freelance opportunities
 
 ---
 
-## 💼 Experience
+## ![exp](https://img.shields.io/badge/Experience-3b82f6?style=flat-square&logo=briefcase&logoColor=white&labelColor=030912)
 
 <table>
 <tr>
 <td>
 
-**🏢 Agentic AI Full Stack Developer Trainee**
+**Agentic AI Full Stack Developer Trainee** &nbsp; — &nbsp; ![Genworx](https://img.shields.io/badge/Genworx.ai-Chennai,_India-3b82f6?style=flat-square&labelColor=030912) &nbsp; ![Period](https://img.shields.io/badge/Aug_2025_–_Feb_2026-2563eb?style=flat-square&labelColor=030912)
 
-![Genworx](https://img.shields.io/badge/Genworx.ai-Chennai,_India-3b82f6?style=flat-square&labelColor=030912)
-&nbsp;
-![Period](https://img.shields.io/badge/Aug_2025_–_Feb_2026-162035?style=flat-square&labelColor=030912&color=2563eb)
-
-- ▸ Built **3+ full-stack apps** using React, Angular, and FastAPI — improving modular architecture and dev speed
+- ▸ Built **3+ full-stack apps** with React, Angular, FastAPI — improving modular architecture and dev speed
 - ▸ Designed **Agentic AI workflows** using LangChain & LangGraph for dynamic tool orchestration
-- ▸ Built **RAG pipelines** integrating PostgreSQL and vector databases for semantic search
-- ▸ Applied **Docker containerization** and explored Kubernetes deployments, services, and scaling
+- ▸ Built **RAG pipelines** with PostgreSQL + vector DBs for semantic search & contextual retrieval
+- ▸ Applied **Docker containerization** and explored Kubernetes deployments and scaling strategies
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=github&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-3b82f6?style=flat-square&labelColor=030912)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -235,13 +216,13 @@ status    ::  ✅ Open to full-time & freelance opportunities
 
 ---
 
-## 🎓 Education
+## ![edu](https://img.shields.io/badge/Education-06b6d4?style=flat-square&logo=book-open&logoColor=white&labelColor=030912)
 
 <table>
 <tr>
 <td>
 
-![Degree](https://img.shields.io/badge/B.E._Computer_Science_&_Engineering-3b82f6?style=flat-square&labelColor=030912)
+![BE](https://img.shields.io/badge/B.E._Computer_Science_%26_Engineering-3b82f6?style=flat-square&labelColor=030912)
 
 **Sri Krishna College of Technology, Coimbatore** &nbsp;·&nbsp; `2022 – 2026` &nbsp;·&nbsp; CGPA: **8.6**
 
@@ -269,18 +250,18 @@ status    ::  ✅ Open to full-time & freelance opportunities
 
 ---
 
-## 🏆 Achievements
+## ![ach](https://img.shields.io/badge/Achievements-ec4899?style=flat-square&logo=award&logoColor=white&labelColor=030912)
 
-![NPTEL](https://img.shields.io/badge/🥇_NPTEL_Student_Topper-SKCT-3b82f6?style=flat-square&labelColor=030912)
-![HF](https://img.shields.io/badge/🤗_Published_Whisper_STT-HuggingFace-FF9D00?style=flat-square&labelColor=030912&logoColor=black)
-![GDA](https://img.shields.io/badge/📊_Google_Data_Analytics-Coursera-4285F4?style=flat-square&labelColor=030912)
-![Java](https://img.shields.io/badge/☕_Java_Certified-NPTEL-ED8B00?style=flat-square&labelColor=030912)
-![React](https://img.shields.io/badge/⚛️_Advanced_React-Coursera-61DAFB?style=flat-square&labelColor=030912&logoColor=black)
-![DSA](https://img.shields.io/badge/💻_500+_DSA_Problems-LeetCode_+_GFG-22c55e?style=flat-square&labelColor=030912)
+![NPTEL](https://img.shields.io/badge/NPTEL_Student_Topper-SKCT-3b82f6?style=flat-square&logo=star&logoColor=white&labelColor=030912)
+![HF](https://img.shields.io/badge/Published_Whisper_STT-HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=black&labelColor=030912)
+![GDA](https://img.shields.io/badge/Google_Data_Analytics-Coursera-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=030912)
+![Java](https://img.shields.io/badge/Java_Certified-NPTEL-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=030912)
+![ReactC](https://img.shields.io/badge/Advanced_React-Coursera-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=030912)
+![DSA](https://img.shields.io/badge/500%2B_DSA_Problems-LeetCode_%2B_GFG-22c55e?style=flat-square&logo=leetcode&logoColor=white&labelColor=030912)
 
 ---
 
-## 📈 GitHub Stats
+## ![gh](https://img.shields.io/badge/GitHub_Stats-3b82f6?style=flat-square&logo=github&logoColor=white&labelColor=030912)
 
 <div align="center">
 
